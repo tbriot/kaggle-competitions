@@ -1,0 +1,8 @@
+data/tbriot_submission*.csv
+models/
+
+# Ignorer les fichiers de checkpoints de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de sortie de Jupyter Notebooks
+*.ipynb_checkpoints
